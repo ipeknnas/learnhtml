@@ -1,2 +1,2 @@
 # learnhtml
-Learn HTML and CSS.
+Learn HTML, CSS and JavaScript.
